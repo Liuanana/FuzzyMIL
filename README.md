@@ -1,0 +1,1 @@
+python main.py --project=camelyon --datasets=camelyon16 --dataset_root=DATA_DIRECTORY --model_path=checkpoints_DIRECTORY --model=fuzzymil --pool=attn --n_trans_layers=2 --da_act=tanh --title=c16_r50_fuzzymil --epeg_k=15 --crmsa_k=1 --all_shortcut --seed=2021
